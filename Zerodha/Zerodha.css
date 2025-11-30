@@ -1,0 +1,182 @@
+nav{
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    position: sticky;
+    top: 0.1px;
+    background-color: white;
+}
+.coco
+{ 
+    height:10vh;
+    width:100vw;
+    display: flex;
+    justify-content: center; 
+    justify-content: space-between;
+  
+}
+.bb
+{
+    font-size: 15px;
+}
+
+.xoxo
+{ height: 15vh;
+    width: 10vw;
+    background: url("logo.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.main1{
+    height: 70vh;
+    width: 100vw;
+    background: url("landing.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.nunu{
+    text-align: center;
+    font-size: 20px;
+}
+
+.Hello{
+    font-size: 22px;
+    background-color: rgb(0, 132, 255) ;
+    color: white; 
+}
+
+.flex01{
+    margin-top:110px ;
+    margin-left: 175px;
+    font-size: 18px ;
+}
+
+.flex11
+{ height: 90vh;
+    width: 50vw;
+    background: url("ecosystem.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    margin-top: 140px;
+}
+.flex81
+{
+    display: flex;
+}
+
+.flex82{
+     height: 10vh;
+    width: 50vw;
+    background: url("press-logos.png");
+  
+ margin-left: 30vw;
+    background-size: contain;
+    background-repeat: no-repeat;   
+}
+
+.flex83{
+    display: flex;
+}
+
+.flex03{
+    margin-left: 175px;
+    font-size: 18px;
+}
+.flex33{
+    background: url("Pricing.png");
+    margin-top: 50px;
+    margin-left: 30px;
+    height: 10vh;
+    width: 50vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.ss{
+    color: rgb(0, 149, 255);
+    font-size: 18px;
+    margin-top: 2vw;
+}
+
+
+.flex04{
+    background: url("index-education.svg");
+    height: 32vh;
+    width: 50vw;
+    margin-left: 130px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.flex84
+{
+    display: flex;
+}
+
+.flex44{
+    margin-top: 48px;
+   font-size: 18px;
+}
+
+.flex85{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 18px;
+}
+.yolo{
+    font-size: 24px;
+    background-color: rgb(0, 115, 255);
+    color: white;
+}
+
+.flex06{
+    background: url("ScrnZerodha.png");
+    height: 32vh;
+    width: 30vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 55px;
+    margin-left: 85px;
+}
+.flex86{ 
+    width: 100vw;
+    background-color: rgb(255, 251, 251);
+    display: flex;
+}
+.flex66{
+    margin-left: 100px;
+   /* padding: 40vw; */
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    /* justify-content: space-around; */
+
+    font-size: 18px;
+    margin-top: 73px;
+}
+
+.cc{
+    text-align: center;
+    color: rgb(177, 174, 174);;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.tt{
+    color: rgb(0, 149, 255);
+    font-size: 18px;
+    margin-top: 2vw;
+}
+
+.vv{
+   color: rgb(0, 149, 255);
+   font-size: 18px; 
+}
